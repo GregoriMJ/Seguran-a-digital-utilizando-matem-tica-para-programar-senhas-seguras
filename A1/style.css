@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+:root{
+    --branco: rgb(228, 228, 228);
+    --cor-de-fundo: #00162E;
+    --mochily: "Mochiy Pop One", sans-serif;
+}
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);  
+}
+
+.titulo{
+    font-family: var(--mochily);
+}
