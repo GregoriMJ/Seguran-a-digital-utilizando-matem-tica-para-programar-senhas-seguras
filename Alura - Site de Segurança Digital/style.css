@@ -1,0 +1,11 @@
+
+:root{
+    --branci: white;
+    --cor-de-fundo: #00162E;
+    --fundo-texto:#00244D;
+    --borda: #001E40;
+}
+body{
+    color: white;
+    background-color: var(--cor-de-fundo)
+}
